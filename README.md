@@ -10,20 +10,23 @@ I'm a **Software Engineer** with a focus on backend development, although I cons
 
 Here are some of my most relevant projects:
 
-### [AutoGuard](https://github.com/IagoPorto/AutoGuard)  
+### [AutoGuard](https://github.com/IagoPorto/AutoGuard)  🚘🛡️
 An Android app designed to detect drowsiness and distractions while driving using MediaPipe, contributing to road safety.  
 
-### [Reversi](https://github.com/IagoPorto/Reversi)  
-A Reversi game for Android that includes an AI powered by the alpha-beta pruning algorithm to challenge the player.  
+### [Dron](https://github.com/IagoPorto/Dron-Firefly)  🚁✨
+A drone control using C++, Raspberry Pi, Navio, and sensors for stabilization and maneuvering, with PID algorithms and Kalman filtering for data processing. 
 
-### [Sistema-Distribuido](https://github.com/IagoPorto/Sistema-Distribuido)  
+### [Sistema-Distribuido](https://github.com/IagoPorto/Sistema-Distribuido)  🎟️🚀
 A distributed system implemented in C, leveraging the Ricart-Agrawala algorithm with tokens and tickets for shared resource management.  
 
-### [CRUD_StackMEAN](https://github.com/IagoPorto/CRUD_StackMEAN)  
+### [CRUD_StackMEAN](https://github.com/IagoPorto/CRUD_StackMEAN)  📈
 An e-commerce application built with the MEAN stack (MongoDB, Express.js, Angular, Node.js). It includes CRUD functionality to manage users and products.
 
-### [TicTacToe](https://github.com/IagoPorto/TicTacToe)  
+### [TicTacToe](https://github.com/IagoPorto/TicTacToe)  🎮
 A React implementation of Tic-Tac-Toe, featuring a simple and intuitive design for two players.  
+
+### [Reversi](https://github.com/IagoPorto/Reversi)  🎲
+A Reversi game for Android that includes an AI powered by the alpha-beta pruning algorithm to challenge the player.  
 
 ## Technologies & Tools  
 
