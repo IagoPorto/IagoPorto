@@ -6,7 +6,7 @@ I'm a **Software Engineer** with a focus on backend development, although I cons
 - ### 💼 **LinkedIn**: [Iago Porto Montes](https://www.linkedin.com/in/iagoportomontes/)  
 - ### 📧 **Email**: iagoportomontes@gmail.com  
 
-## Featured Projects  
+## 💡 Featured Projects  
 
 Here are some of my most relevant projects:
 
@@ -28,7 +28,7 @@ A React implementation of Tic-Tac-Toe, featuring a simple and intuitive design f
 ### [Reversi](https://github.com/IagoPorto/Reversi)  🎲
 A Reversi game for Android that includes an AI powered by the alpha-beta pruning algorithm to challenge the player.  
 
-## Technologies & Tools  
+## 🛠️  Technologies & Tools  
 
 - **Languages**: Java, C, JavaScript  
 - **Frameworks**: Spring, React, Node.js  
@@ -38,7 +38,7 @@ A Reversi game for Android that includes an AI powered by the alpha-beta pruning
 - **Other Skills**: Android app development, artificial intelligence algorithms, distributed systems  
 - **Soft Skills**: Effective communication, team player, fast learner  
 
-## Get in Touch  
+## 💬 Get in Touch  
 
 I'm open to new opportunities and collaborations on exciting projects. Feel free to reach out via email.  
 
