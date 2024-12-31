@@ -1,10 +1,10 @@
-# Hi there! I'm Iago Porto 👋
+# Greetings! I'm Iago Porto 👋
 
 I'm a **Software Engineer** with a focus on backend development, although I consider myself a versatile professional with experience across various areas of software development.
 
-- 🌍 **Location**: Spain  
-- 💼 **LinkedIn**: [Iago Porto Montes](https://www.linkedin.com/in/iagoportomontes/)  
-- 📧 **Email**: iagoportomontes@gmail.com  
+- ### 🌍 **Location**: Spain  
+- ### 💼 **LinkedIn**: [Iago Porto Montes](https://www.linkedin.com/in/iagoportomontes/)  
+- ### 📧 **Email**: iagoportomontes@gmail.com  
 
 ## Featured Projects  
 
