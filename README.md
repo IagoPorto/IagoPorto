@@ -11,7 +11,7 @@ I'm a **Software Engineer** with a focus on backend development, although I cons
 Here are some of my most relevant projects:
 
 ### [TicTacToe](https://github.com/IagoPorto/TicTacToe)  
-A console-based implementation of Tic-Tac-Toe, featuring a simple and intuitive design for two players.  
+A React implementation of Tic-Tac-Toe, featuring a simple and intuitive design for two players.  
 
 ### [AutoGuard](https://github.com/IagoPorto/AutoGuard)  
 An Android app designed to detect drowsiness and distractions while driving using MediaPipe, contributing to road safety.  
