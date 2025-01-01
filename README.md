@@ -19,7 +19,7 @@ A drone control using C++, Raspberry Pi, Navio, and sensors for stabilization an
 ### [Sistema-Distribuido](https://github.com/IagoPorto/Sistema-Distribuido)  🎟️🚀
 A distributed system implemented in C, leveraging the Ricart-Agrawala algorithm with tokens and tickets for shared resource management.  
 
-### [CRUD_StackMEAN](https://github.com/IagoPorto/CRUD_StackMEAN)  📈
+### [E-Commerce](https://github.com/IagoPorto/E-Commerce)  📈
 An e-commerce application built with the MEAN stack (MongoDB, Express.js, Angular, Node.js). It includes CRUD functionality to manage users and products.
 
 ### [TicTacToe](https://github.com/IagoPorto/TicTacToe)  🎮
