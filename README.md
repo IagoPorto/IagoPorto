@@ -97,6 +97,7 @@ I'm a <b>Software Engineer</b> with a focus on backend development, although I c
 
 ## 💬 Get in Touch  
 
+
 I'm open to new opportunities and collaborations on exciting projects. Feel free to reach out via email.
 
 - 🌍 **Location**: Spain  
@@ -104,3 +105,5 @@ I'm open to new opportunities and collaborations on exciting projects. Feel free
 - 📧 **Email**: iagoportomontes@gmail.com  
 
 Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=IagoPorto&color=dc143c)
