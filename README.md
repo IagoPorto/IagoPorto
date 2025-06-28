@@ -20,6 +20,12 @@ I'm a <b>Software Engineer</b> with a focus on backend development, although I c
 
 ---
 
+## 💼 Portfolio
+
+🚀 Check out my personal portfolio at: [https://iagoporto.github.io/portfolio/](https://iagoporto.github.io/portfolio/)
+
+---
+
 ## 💬 Get in Touch
 
 I'm open to new opportunities and collaborations on exciting projects. Feel free to reach out via email.
