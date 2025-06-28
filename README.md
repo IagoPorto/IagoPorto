@@ -8,20 +8,19 @@ I'm a <b>Software Engineer</b> with a focus on backend development, although I c
 
 ---
 
-## 🛠️  Technologies & Tools  
-
-- **Languages**: Java, C, JavaScript  
-- **Frameworks**: Spring, React, Node.js  
-- **Databases**: SQL, MongoDB  
-- **Architecture**: Clean Code, SOLID principles, Hexagonal Architecture, Domain-Driven Design (DDD)  
-- **Messaging & Cloud**: RabbitMQ, AWS  
-- **Other Skills**: Android app development, artificial intelligence algorithms, distributed systems  
-- **Soft Skills**: Effective communication, team player, fast learner  
+  <summary><b>📈 GitHub stats & languages</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-streak-stats-delta-sooty.vercel.app?user=IagoPorto&theme=dark&hide_border=true" alt="GitHub streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=IagoPorto&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&layout=compact&line_height=24&custom_title=Iago Porto's GitHub Stats&theme=dark&bg_color=222" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPorto&layout=compact&theme=dark&langs_count=6&bg_color=222&hide=jupyter%20notebook&size_weight=0&count_weight=1" alt="Top Langs" />
+  </p>
 
 ---
 
-## 💬 Get in Touch  
-
+## 💬 Get in Touch
 
 I'm open to new opportunities and collaborations on exciting projects. Feel free to reach out via email.
 
